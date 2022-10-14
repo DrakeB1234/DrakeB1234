@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DrakeB1234
 - 👀 I’m interested in ... programming, art, team-building
 - 🌱 I’m currently learning ... computer programming languages, databases, computer arcitecture
-- 💞️ I’m looking to collaborate on ... openSQL, pyhton, C++
+- 💞️ I’m looking to collaborate on ... openSQL, python, C++
 - 📫 How to reach me ... dbuentello211607@gmail.com
 
 <!---
