@@ -1,40 +1,16 @@
-# Drake Buentello 💻
-**`CS Student / Web Developer`**
+<h1 align="left">Hi 👋, I'm Drake B</h1>
+<h3 align="left">Fullstack developer</h3>
 
-I am a CS Student at Wilmington University focusing on developing on the web 🌐
+- 🔭 I’m currently working on [Music Maestro](https://github.com/DrakeB1234/Music-Maestro)
 
-I love creating my own personal web projects on things that interest me such as cooking, reading, and drawing! Some of my own personal projects include a web scraping app designed to scrape only the important bits off of recipe websites and to save them on your device. Whether I am creating industry standard RESTful apis for my projects or a visually appealing front end, I always strive to be on top of the tech game!
+- 🌱 I’m currently learning **Sveltekit / Figma**
 
+- 👨‍💻 All of my projects are available at [drakebuentello.vercel.app](drakebuentello.vercel.app)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/drake-buentello-416b80251/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=40 width=140 alt="Linkedin" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCOWINDlMZhrZiu5dmpwmj5Q" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height=40 width=140 alt="Youtube" />
-    </a>
+<a href="https://linkedin.com/in/drake-buentello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drake-buentello" height="30" width="40" /></a>
 </p>
 
----
-
-### 🧰 Languages and Tools
-<div>
-  <img src="https://github.com/DrakeB1234/DrakeB1234/assets/92681792/cff9918d-4d73-44b4-be23-34cc9fffccc8" alt="JS" height=30 width=30 />&nbsp;&nbsp;
-  <img src="https://github.com/DrakeB1234/DrakeB1234/assets/92681792/2be5037a-dccd-455d-817f-8b979a7706ba" alt="C#" height=30 width=30 />&nbsp;&nbsp;
-  <img src="https://github.com/DrakeB1234/DrakeB1234/assets/92681792/23889afc-e715-4ab5-95f2-5764f0a20816" alt="PYTHON" height=30 width=30 />&nbsp;&nbsp;
-  <img src="https://github.com/DrakeB1234/DrakeB1234/assets/92681792/b153578c-48c6-4922-8961-ad07ec341182" alt="NODE" height=30 width=30 />&nbsp;&nbsp;
-  <img src="https://github.com/DrakeB1234/DrakeB1234/assets/92681792/1a95ad26-be73-46e4-8498-f888fb30d565" alt="REACT" height=30 width=30 />&nbsp;&nbsp;
-  <img src="https://github.com/DrakeB1234/DrakeB1234/assets/92681792/fcc4e75a-c23a-4979-b286-c03c5166402e" alt="HTML" height=30 width=30 />&nbsp;&nbsp;
-  <img src="https://github.com/DrakeB1234/DrakeB1234/assets/92681792/908e5ef4-cf45-4885-b2b8-78533d67a948" alt="CSS" height=30 width=30 />
-</div>
-
----
-
-### Latest Projects
-  <a href="https://github.com/DrakeB1234/Scratchify" target="_blank">
-    <img src="https://github.com/DrakeB1234/DrakeB1234/assets/92681792/b42b3ca3-95a3-4a0e-aee7-11844b2fbe03" height=120 width=400 alt="Youtube" />
-  </a>
-  <a href="https://github.com/DrakeB1234/TastyScrapes" target="_blank">
-    <img src="https://github.com/DrakeB1234/DrakeB1234/assets/92681792/b773cbd8-41eb-4415-a716-474015fcd705" height=120 width=400 alt="Youtube" />
-  </a>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
