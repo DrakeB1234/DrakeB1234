@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Drake B</h1>
-<h3 align="left">Fullstack developer</h3>
+<h3 align="left">Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on [Music Maestro](https://github.com/DrakeB1234/Music-Maestro)
+- 🔭 I’m currently working on [Tone Tools](https://github.com/DrakeB1234/ToneTools)
 
 - 🌱 I’m currently learning **Sveltekit / Figma**
 
